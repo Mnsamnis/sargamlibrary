@@ -1,0 +1,52 @@
+#navbar {
+    background-color: #8D6A9F;
+}
+
+#libraryForm {
+    color: white;
+    /* background: hsl(176, 68%, 45%); */
+    /* margin:25px 249px 25px 0px; */
+
+}
+
+#Sargam {
+    color:yellowgreen ;
+    border: 2px solid grey;
+    /* background-color: #824A69; */
+    display: block;
+    margin: auto;
+    padding: 9px;
+    font-family: 'Merriweather',serif;
+    border-radius: 10px;
+    width: 500px;
+    background-color: hsl(147, 50%, 47%, 0.7)
+}
+
+#search {
+    font-weight: 600;
+    color: #ffe484;
+    border-color: #ffe484;
+}
+
+#formss {
+    border: 2px solid rgb(10, 20, 110);
+    padding: 20px;
+    /* color:white; */
+    background-color: hsla(9, 100%, 64%, 0.5)
+}
+
+#btn {
+    border: 1px solid #C5CBD3;
+}
+
+body {
+    background-image: url(library.jpg);
+    background-size: cover;
+    /* background-size: 100% 100%; */
+    background-repeat: no-repeat;
+
+}
+
+#urbook {
+    color: white;
+}
